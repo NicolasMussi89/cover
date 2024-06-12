@@ -14,3 +14,6 @@ Esse repositório contém os arquivos necessários para criar uma página web us
 - **HTML**: Linguagem de marcação utilizada para estruturar o conteúdo da página.
 - **Bootstrap**: Framework CSS utilizado para estilizar a página e torná-la responsiva.
 - **Php**: Linguagem interpretação livre
+
+## Autor
+  Criado por [Nicolas](https://github.com/NicolasMussi89).
