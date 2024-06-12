@@ -49,12 +49,12 @@
     <h1>Página</h1>
     <p class="lead">A capa é um modelo de uma página para construir páginas iniciais simples e bonitas. Baixe, edite o texto e adicione sua própria foto de fundo em tela cheia para torná-la sua.</p>
     <p class="lead">
-      <a href="#" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Saber mais</a>
+    <a href="#" class="btn btn-lg btn-secondary fw-bold border-white bg-white" style="color: black;">Saber mais</a>
     </p>
   </main>
  
   <footer class="mt-auto text-white-50">
-    <p>Por </a><a href="https://github.com/NicolasMussi89" class="text-white">@Nicolas</a>.</p>
+    <p>Por </a><a href="https://github.com/NicolasMussi89" class="text-white">@Nicolas🦇</a>.</p>
   </footer>
 </div>
  
