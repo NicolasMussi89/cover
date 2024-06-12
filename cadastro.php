@@ -14,11 +14,12 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #f4f4f4;
+            background-color: #333; /* Fundo escuro */
+            color: #fff; /* Texto branco */
         }
 
         .container {
-            background-color: #fff;
+            background-color: #444; /* Cor de fundo do contêiner */
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -31,6 +32,8 @@
             padding: 8px;
             border: 1px solid #ccc;
             border-radius: 5px;
+            background-color: #555; /* Cor de fundo dos campos de entrada */
+            color: #fff; /* Texto branco */
         }
 
         input[type="submit"] {
@@ -45,9 +48,10 @@
 
         footer {
             position: fixed;
-            bottom: 10px;
+            bottom: 20px;
             left: 50%;
             transform: translateX(-50%);
+            font-size: 30px; /* Tamanho do emoji aumentado */
         }
     </style>
 </head>
@@ -67,3 +71,4 @@
 
 </body>
 </html>
+
