@@ -6,11 +6,9 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.84.0">
-    <title>Projetão</title>
+    <title>Página inicial</title>
  
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
- 
-   
  
 <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
  
@@ -40,7 +38,7 @@
     <div>
       <h3 class="float-md-start mb-0">Cover</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link active" aria-current="page" href="#">Casa</a>
+        <a class="nav-link active" aria-current="page" href="#">Menu</a>
         <a class="nav-link" href="login.php">Login</a>
         <a class="nav-link" href="cadastro.php">Cadastro</a>
       </nav>
@@ -48,7 +46,7 @@
   </header>
  
   <main class="px-3">
-    <h1>Sua Página</h1>
+    <h1>Página</h1>
     <p class="lead">A capa é um modelo de uma página para construir páginas iniciais simples e bonitas. Baixe, edite o texto e adicione sua própria foto de fundo em tela cheia para torná-la sua.</p>
     <p class="lead">
       <a href="#" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Saber mais</a>
@@ -56,11 +54,10 @@
   </main>
  
   <footer class="mt-auto text-white-50">
-    <p>Feito por </a><a href="https://github.com/miguelitto16" class="text-white">@Miguel</a>.</p>
+    <p>Por </a><a href="https://github.com/NicolasMussi89" class="text-white">@Nicolas</a>.</p>
   </footer>
 </div>
  
- 
-   
+
   </body>
 </html>
