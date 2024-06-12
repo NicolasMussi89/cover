@@ -15,5 +15,5 @@ Esse repositório contém os arquivos necessários para criar uma página web us
 - **Bootstrap**: Framework CSS utilizado para estilizar a página e torná-la responsiva.
 - **Php**: Linguagem interpretação livre
 
-## Autor
+## Autor🦇
   Criado por [Nicolas](https://github.com/NicolasMussi89).
